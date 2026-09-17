@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "GSE338571 RNA-seq Interaction Analysis"
+version: 1.0.0
+type: software
+
+abstract: >
+  Reproducible computational workflow for the GSE338571 RNA-seq interaction
+  analysis of cell-context-dependent epithelial transcriptional responses
+  associated with macrophage IL-1β exposure. The workflow includes CPM
+  normalization, expression filtering, log2(CPM + 0.5) transformation,
+  two-factor ordinary least-squares interaction testing, Benjamini-Hochberg
+  false discovery rate correction, and primary-result validation.
+
+keywords:
+  - RNA-seq
+  - transcriptomics
+  - GSE338571
+  - IL-1β
+  - epithelial cells
+  - macrophages
+  - interaction analysis
+  - computational biology
+  - reproducible research
+
+license: MIT
+
+authors:
+  - family-names: "REPLACE"
+    given-names: "REPLACE"
+
+repository-code: "REPLACE_WITH_GITHUB_REPOSITORY_URL"
+url: "REPLACE_WITH_GITHUB_REPOSITORY_URL"
+
+message: >
+  If this repository is used in published work, please cite the repository
+  and the associated GSE338571 analysis manuscript.
